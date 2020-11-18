@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.16)  18 NOV 2020 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.16)  18 NOV 2020 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -901,18 +901,18 @@ This may cause the page layout to be inconsistent, however.
  <./self_bw-eps-converted-to.pdf>] [2] Excluding 'comment' comment. 
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 296.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 296.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
  (./cv_andras_kiss_magyar.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 296.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 296.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
 Package rerunfilecheck Info: File `cv_andras_kiss_magyar.out' has not changed.
 (rerunfilecheck)             Checksum: 0B4D6806F822027FB4D3AB2023E406A7;1375.
  ) 
 Here is how much of TeX's memory you used:
  23977 strings out of 480875
  435481 string characters out of 5910033
- 766393 words of memory out of 5000000
+ 765393 words of memory out of 5000000
  39092 multiletter control sequences out of 15000+600000
  604225 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -927,7 +927,7 @@ pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/ma
 rvosym.pfb>
-Output written on cv_andras_kiss_magyar.pdf (3 pages, 293430 bytes).
+Output written on cv_andras_kiss_magyar.pdf (3 pages, 293524 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  106 compressed objects within 2 object streams
